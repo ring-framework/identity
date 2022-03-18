@@ -1,2 +1,3 @@
-# identity
-Branding assets
+# Ring Framework ⚬ Identity
+
+Ring Framework branding assets
